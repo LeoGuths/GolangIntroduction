@@ -1,4 +1,4 @@
-﻿package GolangIntroduction
+﻿package main
 
 import "fmt"
 

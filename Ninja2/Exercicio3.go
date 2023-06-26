@@ -1,4 +1,4 @@
-﻿package Ninja2
+﻿package main
 
 import "fmt"
 
